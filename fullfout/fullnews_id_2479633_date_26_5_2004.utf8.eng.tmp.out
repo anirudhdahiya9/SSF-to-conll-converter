@@ -1,0 +1,14 @@
+1	The	the	det	DT	cat-det|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP|chunkType-head|stype-|voicetype-	3	k1	_	_
+2	Congress	congress	n	NNP	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-The|chunkType-child|stype-|voicetype-	1	child	_	_
+3	has	have	v	VBZ	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-VG|chunkType-head|stype-|voicetype-	0	root	_	_
+4	expressed	express	v	VBN	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-has|chunkType-child|stype-|voicetype-	3	child	_	_
+5	its	it	P	PRP$	cat-P|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP2|chunkType-head|stype-|voicetype-	3	k2	_	_
+6	strong	strong	D	JJ	cat-D|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-its|chunkType-child|stype-|voicetype-	5	child	_	_
+7	over	over	p	IN	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP|chunkType-head|stype-|voicetype-	3	k7	_	_
+8	party	party	adj	NN	cat-adj|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-over|chunkType-child|stype-|voicetype-	7	child	_	_
+9	of	of	p	IN	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP2|chunkType-head|stype-|voicetype-	7	r6	_	_
+10	the	the	det	DT	cat-det|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-of|chunkType-child|stype-|voicetype-	9	child	_	_
+11	Governor	governor	n	NNP	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-of|chunkType-child|stype-|voicetype-	9	child	_	_
+12	tour	tour	v	NN	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-of|chunkType-child|stype-|voicetype-	9	child	_	_
+13	.	.	punc	SYM	cat-punc|gen-n|num-s|pers-3|case-0|vib-|tam-|chunkId-of|chunkType-child|stype-|voicetype-	9	child	_	_
+

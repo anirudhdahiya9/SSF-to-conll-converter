@@ -1,0 +1,17 @@
+1	Rice	rice	n	NNP	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP|chunkType-head|stype-|voicetype-	2	k1	_	_
+2	is	be	v	VBZ	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-VG|chunkType-head|stype-|voicetype-	0	root	_	_
+3	the	the	det	DT	cat-det|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP2|chunkType-head|stype-|voicetype-	2	k1s	_	_
+4	first	first	adj	JJ	cat-adj|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP2|chunkType-head|stype-|voicetype-	2	k1s	_	_
+5	woman	woman	n	NN	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP2|chunkType-head|stype-|voicetype-	2	k1s	_	_
+6	in	in	p	IN	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP|chunkType-head|stype-|voicetype-	2	k7	_	_
+7	American	'	jj	JJ	cat-|gen-|num-|pers-|case-|vib-|tam-|chunkId-PP|chunkType-head|stype-|voicetype-	2	k7	_	_
+8	history	history	n	NN	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP|chunkType-head|stype-|voicetype-	2	k7	_	_
+9	to	to	p	TO	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-VG2|chunkType-head|stype-|voicetype-	3	nmod	_	_
+10	occupy	occupy	v	VB	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-VG2|chunkType-head|stype-|voicetype-	3	nmod	_	_
+11	the	the	det	DT	cat-det|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP4|chunkType-head|stype-|voicetype-	9	k2	_	_
+12	post	post	n	NN	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP4|chunkType-head|stype-|voicetype-	9	k2	_	_
+13	of	of	p	IN	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP2|chunkType-head|stype-|voicetype-	11	r6	_	_
+14	Foreign	foreign	n	NNP	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP2|chunkType-head|stype-|voicetype-	11	r6	_	_
+15	Minister	minister	n	NNP	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP2|chunkType-head|stype-|voicetype-	11	r6	_	_
+16	.	.	punc	SYM	cat-punc|gen-n|num-s|pers-3|case-0|vib-|tam-|chunkId-PP2|chunkType-head|stype-|voicetype-	11	r6	_	_
+

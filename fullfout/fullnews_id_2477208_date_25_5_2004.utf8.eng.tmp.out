@@ -1,0 +1,17 @@
+1	He	he	P	PRP	cat-P|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP|chunkType-head|stype-|voicetype-	2	k1	_	_
+2	said	say	v	VBD	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-VG|chunkType-head|stype-|voicetype-	0	root	_	_
+3	the	the	det	DT	cat-det|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP2|chunkType-head|stype-|voicetype-	6	k1	_	_
+4	state	state	v	NN	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-the|chunkType-child|stype-|voicetype-	3	child	_	_
+5	government	government	n	NN	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-the|chunkType-child|stype-|voicetype-	3	child	_	_
+6	will	will	v	MD	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-VG2|chunkType-head|stype-|voicetype-	2	k2	_	_
+7	help	help	v	VB	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-will|chunkType-child|stype-|voicetype-	6	child	_	_
+8	to	in	p	IN	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-VG3|chunkType-head|stype-|voicetype-	6	k2	_	_
+9	overcome	overcome	v	VBG	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-to|chunkType-child|stype-|voicetype-	8	child	_	_
+10	all	all	det	DT	cat-det|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP3|chunkType-head|stype-|voicetype-	8	k2	_	_
+11	obstacles	obstacle	n	NNS	cat-n|gen-m|num-p|pers-3|case-0|vib-|tam-|chunkId-all|chunkType-child|stype-|voicetype-	10	child	_	_
+12	the	the	det	DT	cat-det|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP4|chunkType-head|stype-|voicetype-	14	k1	_	_
+13	project	project	v	NN	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-the2|chunkType-child|stype-|voicetype-	12	child	_	_
+14	might	might	v	MD	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-VG4|chunkType-head|stype-|voicetype-	10	nmod	_	_
+15	face	face	v	VB	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-might|chunkType-child|stype-|voicetype-	14	child	_	_
+16	.	.	punc	SYM	cat-punc|gen-n|num-s|pers-3|case-0|vib-|tam-|chunkId-might|chunkType-child|stype-|voicetype-	14	child	_	_
+

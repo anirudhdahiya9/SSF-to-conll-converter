@@ -1,0 +1,19 @@
+1	The	the	det	DT	cat-det|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP|chunkType-head|stype-|voicetype-	11	k2	_	_
+2	talks	talk	v	NNS	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-The|chunkType-child|stype-|voicetype-	1	child	_	_
+3	between	between	p	IN	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP|chunkType-head|stype-|voicetype-	5	ccof	_	_
+4	Khokhar	'	nnp	NNP	cat-|gen-|num-|pers-|case-|vib-|tam-|chunkId-between|chunkType-child|stype-|voicetype-	3	child	_	_
+5	and	and	Conj	CC	cat-Conj|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-CCP|chunkType-head|stype-|voicetype-	1	nmod	_	_
+6	the	the	det	DT	cat-det|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP3|chunkType-head|stype-|voicetype-	5	ccof	_	_
+7	Indian	'	nn	NN	cat-|gen-|num-|pers-|case-|vib-|tam-|chunkId-the|chunkType-child|stype-|voicetype-	6	child	_	_
+8	Foreign	foreign	n	NNP	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-the|chunkType-child|stype-|voicetype-	6	child	_	_
+9	Secretary	secretary	n	NNP	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-the|chunkType-child|stype-|voicetype-	6	child	_	_
+10	Shashank	'	nnp	NNP	cat-|gen-|num-|pers-|case-|vib-|tam-|chunkId-the|chunkType-child|stype-|voicetype-	6	child	_	_
+11	would	would	v	MD	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-VG|chunkType-head|stype-|voicetype-	0	root	_	_
+12	be	be	v	VB	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-would|chunkType-child|stype-|voicetype-	11	child	_	_
+13	held	hold	v	VBN	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-would|chunkType-child|stype-|voicetype-	11	child	_	_
+14	on	on	p	IN	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP2|chunkType-head|stype-|voicetype-	11	k7t	_	_
+15	Sunday	sunday	n	NNP	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-on|chunkType-child|stype-|voicetype-	14	child	_	_
+16	and	and	Conj	CC	cat-Conj|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-on|chunkType-child|stype-|voicetype-	14	child	_	_
+17	Monday	monday	n	NNP	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-on|chunkType-child|stype-|voicetype-	14	child	_	_
+18	.	.	punc	SYM	cat-punc|gen-n|num-s|pers-3|case-0|vib-|tam-|chunkId-on|chunkType-child|stype-|voicetype-	14	child	_	_
+

@@ -1,0 +1,4 @@
+1	Latur\/New	'	nnp	NNP	cat-|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP|chunkType-child|stype-|voicetype-	2	pof__cn	_	_
+2	Delhi	'	nnp	NNP	cat-|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP|chunkType-head|stype-|voicetype-	0	root	_	_
+3	.	.	punc	SYM	cat-punc|gen-n|num-s|pers-3|case-0|vib-|tam-|chunkId-NP|chunkType-child|stype-|voicetype-	2	rsym	_	_
+

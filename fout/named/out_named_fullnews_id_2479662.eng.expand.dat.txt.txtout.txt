@@ -1,0 +1,6 @@
+1	Pre	'	fw	FW	cat-|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP|chunkType-head|stype-|voicetype-	0	root	_	_
+2	.	.	punc	SYM	cat-punc|gen-n|num-s|pers-3|case-0|vib-|tam-|chunkId-NP|chunkType-child|stype-|voicetype-	1	rsym	_	_
+
+1	Nagpur	'	vb	VB	cat-|gen-|num-|pers-|case-|vib-|tam-|chunkId-VG|chunkType-head|stype-|voicetype-	0	root	_	_
+2	.	.	punc	SYM	cat-punc|gen-n|num-s|pers-3|case-0|vib-|tam-|chunkId-VG|chunkType-child|stype-|voicetype-	1	rsym	_	_
+

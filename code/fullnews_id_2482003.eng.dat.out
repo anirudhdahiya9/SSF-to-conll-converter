@@ -1,0 +1,49 @@
+1	Condoleezza	'	nnp	NNP	cat-|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP|chunkType-head|stype-|voicetype-	3	k2	_	_
+2	Rice	rice	n	NNP	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-Condoleezza|chunkType-child|stype-|voicetype-	1	child	_	_
+3	was	be	v	VBD	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-VG|chunkType-head|stype-|voicetype-	0	root	_	_
+4	sworn	swear	v	VBN	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-was|chunkType-child|stype-|voicetype-	3	child	_	_
+5	in	in	p	RP	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PRT|chunkType-head|stype-|voicetype-	3	pof	_	_
+6	as	as	p	IN	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP|chunkType-head|stype-|voicetype-	3	k2s	_	_
+7	the	the	det	DT	cat-det|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-as|chunkType-child|stype-|voicetype-	6	child	_	_
+8	American	'	nnp	NNP	cat-|gen-|num-|pers-|case-|vib-|tam-|chunkId-as|chunkType-child|stype-|voicetype-	6	child	_	_
+9	Foreign	foreign	n	NNP	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-as|chunkType-child|stype-|voicetype-	6	child	_	_
+10	Minister	minister	n	NNP	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-as|chunkType-child|stype-|voicetype-	6	child	_	_
+11	today	today	n	NN	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP3|chunkType-head|stype-|voicetype-	3	k7t	_	_
+12	.	.	punc	SYM	cat-punc|gen-n|num-s|pers-3|case-0|vib-|tam-|chunkId-today|chunkType-child|stype-|voicetype-	11	child	_	_
+
+1	Rice	rice	n	NNP	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP|chunkType-head|stype-|voicetype-	2	k1	_	_
+2	has	have	v	VBZ	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-VG|chunkType-head|stype-|voicetype-	0	root	_	_
+3	replaced	replace	v	VBN	cat-v|gen-m|num-p|pers-3|case-0|vib-|tam-|chunkId-has|chunkType-child|stype-|voicetype-	2	child	_	_
+4	Colin	'	nnp	NNP	cat-|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP2|chunkType-head|stype-|voicetype-	2	k2	_	_
+5	Powell	'	nnp	NNP	cat-|gen-|num-|pers-|case-|vib-|tam-|chunkId-Colin|chunkType-child|stype-|voicetype-	4	child	_	_
+6	.	.	punc	SYM	cat-punc|gen-n|num-s|pers-3|case-0|vib-|tam-|chunkId-Colin|chunkType-child|stype-|voicetype-	4	child	_	_
+
+1	Rice	rice	n	NNP	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP|chunkType-head|stype-|voicetype-	2	k1	_	_
+2	is	be	v	VBZ	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-VG|chunkType-head|stype-|voicetype-	0	root	_	_
+3	the	the	det	DT	cat-det|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP2|chunkType-head|stype-|voicetype-	2	k1s	_	_
+4	first	first	adj	JJ	cat-adj|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-the|chunkType-child|stype-|voicetype-	3	child	_	_
+5	woman	woman	n	NN	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-the|chunkType-child|stype-|voicetype-	3	child	_	_
+6	in	in	p	IN	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP|chunkType-head|stype-|voicetype-	2	k7	_	_
+7	American	'	jj	JJ	cat-|gen-|num-|pers-|case-|vib-|tam-|chunkId-in|chunkType-child|stype-|voicetype-	6	child	_	_
+8	history	history	n	NN	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-in|chunkType-child|stype-|voicetype-	6	child	_	_
+9	to	to	p	TO	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-VG2|chunkType-head|stype-|voicetype-	3	nmod	_	_
+10	occupy	occupy	v	VB	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-to|chunkType-child|stype-|voicetype-	9	child	_	_
+11	the	the	det	DT	cat-det|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP4|chunkType-head|stype-|voicetype-	9	k2	_	_
+12	post	post	n	NN	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-the2|chunkType-child|stype-|voicetype-	11	child	_	_
+13	of	of	p	IN	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP2|chunkType-head|stype-|voicetype-	11	r6	_	_
+14	Foreign	foreign	n	NNP	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-of|chunkType-child|stype-|voicetype-	13	child	_	_
+15	Minister	minister	n	NNP	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-of|chunkType-child|stype-|voicetype-	13	child	_	_
+16	.	.	punc	SYM	cat-punc|gen-n|num-s|pers-3|case-0|vib-|tam-|chunkId-of|chunkType-child|stype-|voicetype-	13	child	_	_
+
+1	Before	before	p	IN	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP|chunkType-head|stype-|voicetype-	6	k7t	_	_
+2	this	this	det	DT	cat-det|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-Before|chunkType-child|stype-|voicetype-	1	child	_	_
+3	the	the	det	DT	cat-det|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP2|chunkType-head|stype-|voicetype-	6	k1	_	_
+4	American	'	nnp	NNP	cat-|gen-|num-|pers-|case-|vib-|tam-|chunkId-the|chunkType-child|stype-|voicetype-	3	child	_	_
+5	Senate	senate	n	NNP	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-the|chunkType-child|stype-|voicetype-	3	child	_	_
+6	confirmed	confirm	v	VBD	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-VG|chunkType-head|stype-|voicetype-	0	root	_	_
+7	Condoleezza	'	nnp	NNP	cat-|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP3|chunkType-head|stype-|voicetype-	6	k2	_	_
+8	Rice	rice	n	NNP	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-Condoleezza|chunkType-child|stype-|voicetype-	7	child	_	_
+9	's	'	pos	POS	cat-|gen-|num-|pers-|case-|vib-|tam-|chunkId-Condoleezza|chunkType-child|stype-|voicetype-	7	child	_	_
+10	appointment	appointment	n	NN	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-Condoleezza|chunkType-child|stype-|voicetype-	7	child	_	_
+11	.	.	punc	SYM	cat-punc|gen-n|num-s|pers-3|case-0|vib-|tam-|chunkId-Condoleezza|chunkType-child|stype-|voicetype-	7	child	_	_
+

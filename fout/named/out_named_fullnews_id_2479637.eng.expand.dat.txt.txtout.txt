@@ -1,0 +1,31 @@
+1	Every	every	det	DT	cat-det|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP|chunkType-child|stype-|voicetype-	2	lwg__det	_	_
+2	drop	drop	v	NN	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP|chunkType-head|stype-|voicetype-	13	k1	_	_
+3	of	of	p	IN	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP|chunkType-child|stype-|voicetype-	4	lwg__prep	_	_
+4	tear	tear	v	NNP	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP|chunkType-head|stype-|voicetype-	2	r6	_	_
+5	that	that	P	WDT	cat-P|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP3|chunkType-head|stype-|voicetype-	6	k1	_	_
+6	flowed	flow	v	VBD	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-VG|chunkType-head|stype-|voicetype-	2	nmod__relc	_	_
+7	out	out	p	RP	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP2|chunkType-child|stype-|voicetype-	8	lwg__rp	_	_
+8	of	of	p	IN	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP2|chunkType-child|stype-|voicetype-	12	lwg__prep	_	_
+9	Naseem	'	nnp	NNP	cat-|gen-|num-|pers-|case-|vib-|tam-|chunkId-PP2|chunkType-child|stype-|voicetype-	10	pof__cn	_	_
+10	Kausar	'	nnp	NNP	cat-|gen-|num-|pers-|case-|vib-|tam-|chunkId-PP2|chunkType-child|stype-|voicetype-	12	nmod_n	_	_
+11	's	'	pos	POS	cat-|gen-|num-|pers-|case-|vib-|tam-|chunkId-PP2|chunkType-child|stype-|voicetype-	10	lwg__poss	_	_
+12	eyes	eyes	n	NNS	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP2|chunkType-head|stype-|voicetype-	6	k5	_	_
+13	spoke	speak	v	VBD	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-VG2|chunkType-head|stype-|voicetype-	0	root	_	_
+14	of	of	p	IN	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP3|chunkType-head|stype-|voicetype-	13	k2	_	_
+15	her	she	P	PRP$	cat-P|gen-f|num-s|pers-3|case-0|vib-|tam-|chunkId-PP3|chunkType-child|stype-|voicetype-	16	lwg__poss	_	_
+16	pain	pain	v	NN	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP3|chunkType-head|stype-|voicetype-	13	k2	_	_
+17	.	.	punc	SYM	cat-punc|gen-n|num-s|pers-3|case-0|vib-|tam-|chunkId-PP3|chunkType-child|stype-|voicetype-	16	rsym	_	_
+
+1	She	she	P	PRP	cat-P|gen-f|num-s|pers-3|case-0|vib-|tam-|chunkId-NP|chunkType-head|stype-|voicetype-	3	k1	_	_
+2	was	be	v	VBD	cat-v|gen-m|num-s|pers-1|case-0|vib-|tam-|chunkId-VG|chunkType-child|stype-|voicetype-	3	lwg__vaux	_	_
+3	meeting	meet	v	VBG	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-VG|chunkType-head|stype-|voicetype-	0	root	_	_
+4	her	she	P	PRP$	cat-P|gen-f|num-s|pers-3|case-0|vib-|tam-|chunkId-NP2|chunkType-child|stype-|voicetype-	6	lwg__poss	_	_
+5	maternal	maternal	adj	JJ	cat-adj|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP2|chunkType-child|stype-|voicetype-	6	nmod__adj	_	_
+6	uncle	uncle	n	NN	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP2|chunkType-head|stype-|voicetype-	3	k2	_	_
+7	from	from	p	IN	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP|chunkType-head|stype-|voicetype-	6	nmod	_	_
+8	Pakistan	'	nnp	NNP	cat-|gen-|num-|pers-|case-|vib-|tam-|chunkId-PP|chunkType-head|stype-|voicetype-	6	nmod	_	_
+9	after	after	Conj	IN	cat-Conj|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP2|chunkType-child|stype-|voicetype-	11	lwg__prep	_	_
+10	45	'	cd	CD	cat-|gen-|num-|pers-|case-|vib-|tam-|chunkId-PP2|chunkType-child|stype-|voicetype-	11	nmod__adj	_	_
+11	years	year	n	NNS	cat-n|gen-m|num-p|pers-3|case-0|vib-|tam-|chunkId-PP2|chunkType-head|stype-|voicetype-	3	k7t	_	_
+12	.	.	punc	SYM	cat-punc|gen-n|num-s|pers-3|case-0|vib-|tam-|chunkId-PP2|chunkType-child|stype-|voicetype-	11	rsym	_	_
+

@@ -1,0 +1,71 @@
+1	The	the	det	DT	cat-det|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP|chunkType-head|stype-|voicetype-	3	k1	_	_
+2	competition	competition	n	NN	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-The|chunkType-child|stype-|voicetype-	1	child	_	_
+3	was	be	v	VBD	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-VG|chunkType-head|stype-|voicetype-	0	root	_	_
+4	held	hold	v	VBN	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-was|chunkType-child|stype-|voicetype-	3	child	_	_
+5	in	in	p	IN	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP|chunkType-head|stype-|voicetype-	3	k7p	_	_
+6	.	.	punc	SYM	cat-punc|gen-n|num-s|pers-3|case-0|vib-|tam-|chunkId-in|chunkType-child|stype-|voicetype-	5	child	_	_
+
+1	The	the	det	DT	cat-det|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP|chunkType-head|stype-|voicetype-	3	k2	_	_
+2	competition	competition	n	NN	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-The|chunkType-child|stype-|voicetype-	1	child	_	_
+3	was	be	v	VBD	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-VG|chunkType-head|stype-|voicetype-	0	root	_	_
+4	held	hold	v	VBN	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-was|chunkType-child|stype-|voicetype-	3	child	_	_
+5	from	from	p	IN	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP|chunkType-head|stype-|voicetype-	6	rsp	_	_
+6	to	to	v	TO	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP2|chunkType-head|stype-|voicetype-	3	k7t	_	_
+7	in	in	p	IN	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP3|chunkType-head|stype-|voicetype-	3	k7p	_	_
+8	city	city	n	NN	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-in|chunkType-child|stype-|voicetype-	7	child	_	_
+9	.	.	punc	SYM	cat-punc|gen-n|num-s|pers-3|case-0|vib-|tam-|chunkId-in|chunkType-child|stype-|voicetype-	7	child	_	_
+
+1	Girls	girl	n	NNS	cat-n|gen-m|num-p|pers-3|case-0|vib-|tam-|chunkId-NP|chunkType-head|stype-|voicetype-	4	k1	_	_
+2	from	from	p	IN	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP|chunkType-head|stype-|voicetype-	1	nmod	_	_
+3	countries	country	n	NNS	cat-n|gen-m|num-p|pers-3|case-0|vib-|tam-|chunkId-from|chunkType-child|stype-|voicetype-	2	child	_	_
+4	participated	participate	v	VBD	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-VG|chunkType-head|stype-|voicetype-	0	root	_	_
+5	in	in	p	IN	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP2|chunkType-head|stype-|voicetype-	4	k7	_	_
+6	this	this	det	DT	cat-det|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-in|chunkType-child|stype-|voicetype-	5	child	_	_
+7	competition	competition	n	NN	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-in|chunkType-child|stype-|voicetype-	5	child	_	_
+8	.	.	punc	SYM	cat-punc|gen-n|num-s|pers-3|case-0|vib-|tam-|chunkId-in|chunkType-child|stype-|voicetype-	5	child	_	_
+
+1	He	he	P	PRP	cat-P|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP|chunkType-head|stype-|voicetype-	2	k1	_	_
+2	said	say	v	VBD	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-VG|chunkType-head|stype-|voicetype-	0	root	_	_
+3	that	that	P	IN	cat-P|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-CCP|chunkType-head|stype-|voicetype-	2	k2	_	_
+4	in	in	p	IN	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP|chunkType-head|stype-|voicetype-	8	k7t	_	_
+5	the	the	det	DT	cat-det|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-in|chunkType-child|stype-|voicetype-	4	child	_	_
+6	beginning	begin	v	NN	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-in|chunkType-child|stype-|voicetype-	4	child	_	_
+7	he	he	P	PRP	cat-P|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP3|chunkType-head|stype-|voicetype-	8	k1	_	_
+8	was	be	v	VBD	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-VG2|chunkType-head|stype-|voicetype-	3	ccof	_	_
+9	n't	comma	punc	NEG	cat-punc|gen-n|num-s|pers-3|case-0|vib-|tam-|chunkId-was|chunkType-child|stype-|voicetype-	8	child	_	_
+10	in	in	p	IN	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP2|chunkType-head|stype-|voicetype-	8	k7	_	_
+11	favor	favour	v	NN	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-in2|chunkType-child|stype-|voicetype-	10	child	_	_
+12	of	of	p	IN	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP3|chunkType-head|stype-|voicetype-	10	r6-k2	_	_
+13	his	he	det	PRP$	cat-det|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-of|chunkType-child|stype-|voicetype-	12	child	_	_
+14	daughter	daughter	n	NN	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-of|chunkType-child|stype-|voicetype-	12	child	_	_
+15	participating	participate	v	VBG	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-VG3|chunkType-head|stype-|voicetype-	12	nmod	_	_
+16	in	in	p	IN	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP4|chunkType-head|stype-|voicetype-	15	k7	_	_
+17	these	these	n	DT	cat-n|gen-m|num-p|pers-3|case-0|vib-|tam-|chunkId-in3|chunkType-child|stype-|voicetype-	16	child	_	_
+18	competitions	competition	n	NNS	cat-n|gen-m|num-p|pers-3|case-0|vib-|tam-|chunkId-in3|chunkType-child|stype-|voicetype-	16	child	_	_
+19	.	.	punc	SYM	cat-punc|gen-n|num-s|pers-3|case-0|vib-|tam-|chunkId-in3|chunkType-child|stype-|voicetype-	16	child	_	_
+
+1	But	but	D	CC	cat-D|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-CCP|chunkType-head|stype-|voicetype-	3	sent-adv	_	_
+2	he	he	P	PRP	cat-P|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP|chunkType-head|stype-|voicetype-	3	k1	_	_
+3	had	have	v	VBD	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-VG|chunkType-head|stype-|voicetype-	0	root	_	_
+4	to	to	v	TO	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-had|chunkType-child|stype-|voicetype-	3	child	_	_
+5	agree	agree	v	VB	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-had|chunkType-child|stype-|voicetype-	3	child	_	_
+6	in	in	p	IN	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP|chunkType-head|stype-|voicetype-	3	k7	_	_
+7	the	the	det	DT	cat-det|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-in|chunkType-child|stype-|voicetype-	6	child	_	_
+8	face	face	v	NN	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-in|chunkType-child|stype-|voicetype-	6	child	_	_
+9	of	of	p	IN	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP2|chunkType-head|stype-|voicetype-	6	pof-idiom	_	_
+10	her	she	det	PRP$	cat-det|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-of|chunkType-child|stype-|voicetype-	9	child	_	_
+11	strong	strong	D	JJ	cat-D|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-of|chunkType-child|stype-|voicetype-	9	child	_	_
+12	determination	determination	n	NN	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-of|chunkType-child|stype-|voicetype-	9	child	_	_
+13	.	.	punc	SYM	cat-punc|gen-n|num-s|pers-3|case-0|vib-|tam-|chunkId-of|chunkType-child|stype-|voicetype-	9	child	_	_
+
+1	From	from	p	IN	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP|chunkType-head|stype-|voicetype-	5	k7t	_	_
+2	the	the	det	DT	cat-det|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-From|chunkType-child|stype-|voicetype-	1	child	_	_
+3	beginning	begin	v	NN	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-From|chunkType-child|stype-|voicetype-	1	child	_	_
+4	she	she	P	PRP	cat-P|gen-f|num-s|pers-3|case-0|vib-|tam-|chunkId-NP2|chunkType-head|stype-|voicetype-	5	k1	_	_
+5	was	be	v	VBD	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-VG|chunkType-head|stype-|voicetype-	0	root	_	_
+6	different	different	adj	JJ	cat-adj|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-ADJP|chunkType-head|stype-|voicetype-	5	k1s	_	_
+7	from	from	p	IN	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP2|chunkType-head|stype-|voicetype-	6	nmod	_	_
+8	other	other	n	JJ	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-from|chunkType-child|stype-|voicetype-	7	child	_	_
+9	children	child	n	NNS	cat-n|gen-m|num-p|pers-3|case-0|vib-|tam-|chunkId-from|chunkType-child|stype-|voicetype-	7	child	_	_
+10	.	.	punc	SYM	cat-punc|gen-n|num-s|pers-3|case-0|vib-|tam-|chunkId-from|chunkType-child|stype-|voicetype-	7	child	_	_
+

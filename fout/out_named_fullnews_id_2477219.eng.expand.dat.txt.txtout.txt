@@ -1,0 +1,24 @@
+1	Vohra	'	nnp	NNP	cat-|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP|chunkType-head|stype-|voicetype-	3	k1	_	_
+2	had	have	v	VBD	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-VG|chunkType-child|stype-|voicetype-	3	lwg__vaux	_	_
+3	met	meet	v	VBN	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-VG|chunkType-head|stype-|voicetype-	10	ccof	_	_
+4	Prime	prime	n	NNP	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP2|chunkType-child|stype-|voicetype-	5	pof__cn	_	_
+5	Minister	minister	n	NNP	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP2|chunkType-child|stype-|voicetype-	7	nmod_n	_	_
+6	Manmohan	'	nnp	NNP	cat-|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP2|chunkType-child|stype-|voicetype-	7	pof__cn	_	_
+7	Singh	'	nnp	NNP	cat-|gen-|num-|pers-|case-|vib-|tam-|chunkId-NP2|chunkType-head|stype-|voicetype-	3	k2	_	_
+8	on	on	p	IN	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP|chunkType-child|stype-|voicetype-	9	lwg__prep	_	_
+9	Tuesday	tuesday	n	NNP	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP|chunkType-head|stype-|voicetype-	3	k7t	_	_
+10	and	and	Conj	CC	cat-Conj|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-CCP|chunkType-head|stype-|voicetype-	0	root	_	_
+11	informed	inform	v	VBD	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-VG2|chunkType-head|stype-|voicetype-	10	ccof	_	_
+12	him	he	P	PRP	cat-P|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP4|chunkType-head|stype-|voicetype-	11	k4	_	_
+13	about	about	p	IN	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP2|chunkType-child|stype-|voicetype-	15	lwg__prep	_	_
+14	the	the	det	DT	cat-det|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP2|chunkType-child|stype-|voicetype-	15	lwg__det	_	_
+15	talks	talk	v	NNS	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP2|chunkType-head|stype-|voicetype-	11	k2	_	_
+16	with	with	p	IN	cat-p|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP3|chunkType-child|stype-|voicetype-	18	lwg__prep	_	_
+17	Hurriyat	'	nnp	NNP	cat-|gen-|num-|pers-|case-|vib-|tam-|chunkId-PP3|chunkType-child|stype-|voicetype-	18	pof__cn	_	_
+18	Conference	conference	n	NNP	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-PP3|chunkType-head|stype-|voicetype-	19	ccof	_	_
+19	and	and	Conj	CC	cat-Conj|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-CCP2|chunkType-head|stype-|voicetype-	11	ras-k2	_	_
+20	other	other	D	JJ	cat-D|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP7|chunkType-child|stype-|voicetype-	21	lwg__rp	_	_
+21	separatist	separatist	n	JJ	cat-n|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP7|chunkType-child|stype-|voicetype-	22	nmod__adj	_	_
+22	groups	group	v	NNS	cat-v|gen-m|num-s|pers-3|case-0|vib-|tam-|chunkId-NP7|chunkType-head|stype-|voicetype-	19	ccof	_	_
+23	.	.	punc	SYM	cat-punc|gen-n|num-s|pers-3|case-0|vib-|tam-|chunkId-NP7|chunkType-child|stype-|voicetype-	22	rsym	_	_
+
